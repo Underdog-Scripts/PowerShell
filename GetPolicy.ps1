@@ -1,0 +1,1 @@
+﻿Get-GPResultantSetOfPolicy -user COV\zzjames.downing -computer NG00248156.cov.virginia.gov -reporttype html -path c:\scripts\PS1\NG00248156-pc.html

@@ -1,0 +1,1 @@
+﻿Get-CMCollection -Name * | Select Name | Format-Wide

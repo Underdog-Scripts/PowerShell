@@ -1,0 +1,1 @@
+﻿Get-wmiObject -Namespace root\SMS\SMS:P01 -Query "Select name,containernodeid from SMS_ObjectContainerNode"
