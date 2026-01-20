@@ -1,6 +1,6 @@
 ﻿# Site configuration
-$SiteCode = "P01" # Site code 
-$ProviderMachineName = "ALCRMCWSSP01.pmusa.net" # SMS Provider machine name
+$SiteCode = "L01" # Site code 
+$ProviderMachineName = "SCCM1902.lab.contoso.com" # SMS Provider machine name
 
 # Customizations
 $initParams = @{}
